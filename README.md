@@ -29,7 +29,7 @@ A Retrieval-Augmented Generation (RAG) application that allows you to upload PDF
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Anantu-Rajesh/RAG-based-PDF-QnA.git
    cd "RAG mini project"
    ```
 
